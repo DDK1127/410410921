@@ -1,0 +1,2 @@
+just test vscode extensions "gitlens", very cool.
+at same time i am learning too.
